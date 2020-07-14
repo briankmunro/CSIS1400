@@ -1,3 +1,5 @@
+// Code reviewed by @professorgordon
+
 import java.util.Scanner;
 
 public class practice {
